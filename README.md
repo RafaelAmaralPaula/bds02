@@ -15,10 +15,10 @@
   **TAREFA: TDD Event-City**
 
   ### Implemente as funcionalidades necessárias para que os testes do projeto abaixo passem:
-      - https://github.com/devsuperior/bds02
+      https://github.com/devsuperior/bds02
 
   ### Collection do Postman:
-      - https://www.getpostman.com/collections/c347ea3428d6b199b391
+      https://www.getpostman.com/collections/c347ea3428d6b199b391
 
   **Mínimo para aprovação: 5/7**
 

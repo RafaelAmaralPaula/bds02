@@ -11,7 +11,7 @@ import java.net.URI;
 import java.util.List;
 
 @RestController
-@RequestMapping("/cities")
+@RequestMapping(value = "/cities")
 public class CityResource {
 
     @Autowired
